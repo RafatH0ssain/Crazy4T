@@ -28,7 +28,7 @@ This project is only in the design phase, but it can be extended to incorporate 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/crazy4t-shop.git
+    git clone https://github.com/RafatH0ssain/Crazy4T
     ```
 2. Open `index.html` in your browser to view the design.
 
